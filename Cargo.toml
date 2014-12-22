@@ -1,0 +1,5 @@
+[package]
+
+name = "rust-des"
+version = "0.0.1"
+authors = ["Jakub Konka <kubkon@jakubkonka.com>"]
