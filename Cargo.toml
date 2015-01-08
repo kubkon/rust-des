@@ -1,5 +1,13 @@
 [package]
-
 name = "rust-des"
 version = "0.0.1"
 authors = ["Jakub Konka <kubkon@jakubkonka.com>"]
+
+[lib]
+name = "rdes"
+path = "src/lib.rs"
+
+[[bin]]
+name = "mm1"
+path = "examples/mm1.rs"
+
